@@ -30,6 +30,3 @@ The output is a time series of the relative size of the giant components in laye
 - `LaTeXStrings`
 - `Base.Threads` (Monte Carlo code uses `@threads`)
 
-
-Pkg.add(["Plots","LaTeXStrings"])
-# Random, DelimitedFiles, LinearAlgebra are in the standard library
