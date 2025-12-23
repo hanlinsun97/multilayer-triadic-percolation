@@ -37,26 +37,14 @@ If you find the codes useful in your research, please cite the following paper:
 
 ```latex
 
-@article{Sun2023,
-author={Sun, Hanlin and Radicchi, Filippo and Kurths, J{\"u}rgen and Bianconi, Ginestra},
-title={The dynamic nature of percolation on networks with triadic interactions},
-journal={Nature Communications},
-year={2023},
-month={Mar},
-day={10},
-volume={14},
-number={1},
-pages={1308},
-issn={2041-1723},
-doi={10.1038/s41467-023-37019-5},
-url={https://doi.org/10.1038/s41467-023-37019-5}
+@misc{sun2025triadicpercolationmultilayernetworks,
+      title={Triadic percolation on multilayer networks}, 
+      author={Hanlin Sun and Filippo Radicchi and Ginestra Bianconi},
+      year={2025},
+      eprint={2510.09341},
+      archivePrefix={arXiv},
+      primaryClass={nlin.AO},
+      url={https://arxiv.org/abs/2510.09341}, 
 }
 ```
 
-# License
-This project is licensed under the GNU General Public License v3.0 or later (GPL-3.0-or-later).
-See the LICENSE file for details.
-
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
