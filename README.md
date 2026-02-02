@@ -37,14 +37,20 @@ If you find the codes useful in your research, please cite the following paper:
 
 ```latex
 
-@misc{sun2025triadicpercolationmultilayernetworks,
-      title={Triadic percolation on multilayer networks}, 
-      author={Hanlin Sun and Filippo Radicchi and Ginestra Bianconi},
-      year={2025},
-      eprint={2510.09341},
-      archivePrefix={arXiv},
-      primaryClass={nlin.AO},
-      url={https://arxiv.org/abs/2510.09341}, 
+@article{yvtg-wnn4,
+  title = {Triadic percolation on multilayer networks},
+  author = {Sun, Hanlin and Radicchi, Filippo and Bianconi, Ginestra},
+  journal = {Phys. Rev. E},
+  volume = {113},
+  issue = {1},
+  pages = {014313},
+  numpages = {13},
+  year = {2026},
+  month = {Jan},
+  publisher = {American Physical Society},
+  doi = {10.1103/yvtg-wnn4},
+  url = {https://link.aps.org/doi/10.1103/yvtg-wnn4}
 }
+
 ```
 
